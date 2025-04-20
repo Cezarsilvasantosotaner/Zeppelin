@@ -1,4 +1,4 @@
-~$/rs95767![Zeppelin Banner](assets/zepbanner.png)
+9~$/rs95767![Zeppelin Banner](assets/zepbanner.png)
 # Zeppelin
 Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
 
@@ -25,7 +25,7 @@ For information on how to use the bot, see https://zeppelin.gg/docs
 ## Development
 See [DEVELOPMENT.md](./DEVELOPMENT.md) for instructions on running the development environment.
 
-Once you have the environment up and running, see [MANAGEMENT.md](./MANAGEMENT.md) for how to manage your bot.
+Once you have the environment up and running, see [MANAGEMENT.md](.https://t.me/c/1607772848/21699/MANAGEMENT.md) for how to manage your bot.
 
 ## Production
 See [PRODUCTION.md](./PRODUCTION.md) for instructions on how to run the bot in production.
